@@ -1,5 +1,5 @@
 # React Game
-- A game developed with the React rendering library.
+- A scoreboard app developed with React.
 
 ## How to get started
 - Clone the repo and run the following commands.
